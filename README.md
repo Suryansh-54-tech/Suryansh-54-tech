@@ -38,7 +38,7 @@
 <details open>
 <summary>⌁ click to collapse / expand boot log</summary>
 
-```text
+text
 ╔══════════════════════════════════════════════════════════════╗
 ║ $ whoami                                                      ║
 ║   > Suryansh Singh — B.Tech CSE (Cyber Security)              ║
@@ -218,4 +218,4 @@ Daily-synced LeetCode solutions auto-pushed to GitHub via scheduled workflow.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Repeat.;Connection+terminated.+Thanks+for+visiting.+%E2%AD%90" />
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-```
+
