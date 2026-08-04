@@ -1,5 +1,5 @@
 <!-- ============================================================ -->
-<!-- BOOT SEQUENCE — sets the sci-fi tone before the banner loads -->
+<!-- BOOT SEQUENCE -->
 <!-- ============================================================ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=%3E+booting+profile.exe...;%3E+loading+modules%3A+%5BJAVA%5D+%5BPYTHON%5D+%5BOPENGL%5D;%3E+initializing+neural_visualizer...;%3E+system+ready." />
@@ -31,35 +31,42 @@
 </p>
 
 <!-- ============================================================ -->
-<!-- ABOUT ME — TERMINAL PANEL -->
+<!-- ABOUT ME — BOXED TERMINAL PANEL (ASCII border, collapsible) -->
 <!-- ============================================================ -->
 <h2 align="center">📡 ┃ SYSTEM LOG :: ABOUT_ME</h2>
 
-```bash
-$ whoami
-> Suryansh Singh — B.Tech CSE (Cyber Security), PSIT Kanpur
-> Location: Kanpur, Uttar Pradesh, India
+<details open>
+<summary>⌁ click to collapse / expand boot log</summary>
 
-$ current_build
-> AIVisualizer3D — real-time neural network visualization
-> Stack: Java, LWJGL, OpenGL, GLSL
-
-$ learning_modules --active
-> [DSA]  [System Design]  [AI/ML]  [Cloud Computing]
-
-$ collab_status
-> OPEN — Java | AI | Cyber Security | Open Source
-
-$ ping suryansh.ssingh45@gmail.com
-> reachable: true
+```text
+╔══════════════════════════════════════════════════════════════╗
+║ $ whoami                                                      ║
+║   > Suryansh Singh — B.Tech CSE (Cyber Security)              ║
+║   > PSIT Kanpur | Kanpur, Uttar Pradesh, India                ║
+║                                                                ║
+║ $ current_build                                                ║
+║   > AIVisualizer3D — real-time neural network visualization   ║
+║   > stack: Java · LWJGL · OpenGL · GLSL                       ║
+║                                                                ║
+║ $ learning_modules --active                                   ║
+║   > [DSA]  [SYSTEM DESIGN]  [AI/ML]  [CLOUD COMPUTING]         ║
+║                                                                ║
+║ $ collab_status                                                ║
+║   > OPEN — Java | AI | Cyber Security | Open Source           ║
+║                                                                ║
+║ $ ping suryansh.ssingh45@gmail.com                             ║
+║   > reachable: true                                            ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+</details>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 <!-- ============================================================ -->
-<!-- GOOGLE DEVELOPER PROGRAM — badges pulled from your GDP profile -->
+<!-- GOOGLE DEVELOPER PROGRAM -->
 <!-- ============================================================ -->
 <h2 align="center">🅶 ┃ GOOGLE DEVELOPER PROGRAM</h2>
 
@@ -152,12 +159,14 @@ $ ping suryansh.ssingh45@gmail.com
 </p>
 
 <!-- ============================================================ -->
-<!-- CONTRIBUTION SKYLINE -->
+<!-- 3D CONTRIBUTION SKYLINE (real isometric render, see workflow below) -->
 <!-- ============================================================ -->
-<h2 align="center">🏙️ ┃ CONTRIBUTION SKYLINE</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Suryansh-54-tech/Suryansh-54-tech/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-</p>
+<h2 align="center">🏙️ ┃ 3D CONTRIBUTION SKYLINE</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suryansh-54-tech/Suryansh-54-tech/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Suryansh-54-tech/Suryansh-54-tech/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+</picture>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
