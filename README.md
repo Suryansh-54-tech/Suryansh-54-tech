@@ -38,25 +38,31 @@
 <details open>
 <summary>⌁ click to collapse / expand boot log</summary>
 
+## 📡 SYSTEM LOG :: ABOUT_ME
+
 text
-╔══════════════════════════════════════════════════════════════╗
-║ $ whoami                                                      ║
-║   > Suryansh Singh — B.Tech CSE (Cyber Security)              ║
-║   > PSIT Kanpur | Kanpur, Uttar Pradesh, India                ║
-║                                                                ║
-║ $ current_build                                                ║
-║   > AIVisualizer3D — real-time neural network visualization   ║
-║   > stack: Java · LWJGL · OpenGL · GLSL                       ║
-║                                                                ║
-║ $ learning_modules --active                                   ║
-║   > [DSA]  [SYSTEM DESIGN]  [AI/ML]  [CLOUD COMPUTING]         ║
-║                                                                ║
-║ $ collab_status                                                ║
-║   > OPEN — Java | AI | Cyber Security | Open Source           ║
-║                                                                ║
-║ $ ping suryansh.ssingh45@gmail.com                             ║
-║   > reachable: true                                            ║
-╚══════════════════════════════════════════════════════════════╝
+$ whoami
+> Suryansh Singh
+> B.Tech CSE (Cyber Security)
+> PSIT Kanpur
+
+$ current_project
+> AIVisualizer3D
+> Java • LWJGL • OpenGL • GLSL
+
+$ learning
+> DSA
+> System Design
+> AI
+> Cloud Computing
+
+$ collaboration
+> Java
+> AI
+> Cyber Security
+
+$ contact
+> suryansh.ssingh45@gmail.com
 </details>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
