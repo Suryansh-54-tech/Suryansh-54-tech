@@ -37,7 +37,8 @@
 
 ```bash
 $ whoami
-> Suryansh Singh — B.Tech CSE (Cyber Security)
+> Suryansh Singh — B.Tech CSE (Cyber Security), PSIT Kanpur
+> Location: Kanpur, Uttar Pradesh, India
 
 $ current_build
 > AIVisualizer3D — real-time neural network visualization
@@ -52,6 +53,44 @@ $ collab_status
 $ ping suryansh.ssingh45@gmail.com
 > reachable: true
 ```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+<!-- ============================================================ -->
+<!-- GOOGLE DEVELOPER PROGRAM — badges pulled from your GDP profile -->
+<!-- ============================================================ -->
+<h2 align="center">🅶 ┃ GOOGLE DEVELOPER PROGRAM</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Developer_Program-Member-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/-Google%20Skills-00F5FF?style=for-the-badge&logo=googlecloud&logoColor=black" /><br/>
+      <sub>Earned Jul 2026</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/-GDG%20Discovery-8A2BE2?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/>
+      <sub>Earned Jul 2026</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/-Cloud%20%26%20NVIDIA%20Community-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /><br/>
+      <sub>Earned Jul 2026</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/-Gemini%20Enterprise%20Agent%20Ready-FF00FF?style=for-the-badge&logo=googlegemini&logoColor=white" /><br/>
+      <sub>Earned Jul 2026</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/-GDP%20Joined-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/>
+      <sub>Jul 2026</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -104,7 +143,6 @@ $ ping suryansh.ssingh45@gmail.com
   <img src="https://github-profile-trophy.vercel.app/?username=Suryansh-54-tech&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
-<!-- Weekly activity waveform -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryansh-54-tech&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5FF&line=8A2BE2&point=FF00FF" width="100%"/>
 </p>
@@ -114,7 +152,7 @@ $ ping suryansh.ssingh45@gmail.com
 </p>
 
 <!-- ============================================================ -->
-<!-- 3D CONTRIBUTION SKYLINE — a "city grid" render of your commits -->
+<!-- CONTRIBUTION SKYLINE -->
 <!-- ============================================================ -->
 <h2 align="center">🏙️ ┃ CONTRIBUTION SKYLINE</h2>
 <p align="center">
@@ -139,7 +177,7 @@ $ ping suryansh.ssingh45@gmail.com
 </p>
 
 <!-- ============================================================ -->
-<!-- FEATURED PROJECTS — collapsible terminal-style panels -->
+<!-- FEATURED PROJECTS -->
 <!-- ============================================================ -->
 <h2 align="center">🚀 ┃ FEATURED BUILDS</h2>
 
