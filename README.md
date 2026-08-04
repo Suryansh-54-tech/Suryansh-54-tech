@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Suryansh Singh
 
-<!--
-**Suryansh-54-tech/Suryansh-54-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Computer Science Undergraduate | Cyber Security | Java Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about Software Development, Cyber Security, AI, and building visually impressive projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- Python
+- C++
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- OpenGL (LWJGL)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AIVisualizer3D
+A real-time 3D Neural Network visualization built using Java, LWJGL and OpenGL with custom GLSL shaders.
+
+---
+
+### 📈 Currently Learning
+
+- Data Structures & Algorithms
+- System Design
+- Cyber Security
+- AI
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Suryansh-54-tech
+- LinkedIn: (Add your LinkedIn here)
+- LeetCode: (Add your LeetCode here)
