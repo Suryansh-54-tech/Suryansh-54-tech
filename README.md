@@ -71,8 +71,6 @@ COLLABORATION_PROTOCOLS:
 SECURE_CHANNEL:
   email: "suryansh.ssingh45@gmail.com"
   pgp: "Available on request"
-
-
 </details>
 
 <p align="center">
