@@ -42,7 +42,7 @@
 <details open>
 <summary>🔓 <b>ACCESS GRANTED</b> — Click to collapse/expand neural dump</summary>
 
-```yaml
+yaml
 IDENTITY:
   handle: "Suryansh Singh"
   classification: "B.Tech CSE (Cyber Security)"
@@ -71,7 +71,7 @@ COLLABORATION_PROTOCOLS:
 SECURE_CHANNEL:
   email: "suryansh.ssingh45@gmail.com"
   pgp: "Available on request"
-```
+
 
 </details>
 
@@ -135,7 +135,7 @@ SECURE_CHANNEL:
 <details>
 <summary>🔧 <b>EXPANDED ARSENAL</b> — Click to reveal full loadout</summary>
 
-```text
+text
 ╔════════════════════════════════════════════════════════════════════╗
 ║  LANGUAGES                                                         ║
 ║  ████████████████████ Java 21          █████████████████████████  ║
@@ -165,7 +165,7 @@ SECURE_CHANNEL:
 ║  • Hashcat / John          • Volatility / Rekall                   ║
 ║  • Custom exploit dev (C/Assembly)                                 ║
 ╚════════════════════════════════════════════════════════════════════╝
-```
+
 
 </details>
 
@@ -192,7 +192,7 @@ SECURE_CHANNEL:
 <details>
 <summary>☁️ <b>DEPLOYED WORKLOADS</b> — Click to expand</summary>
 
-```yaml
+yaml
 vertex_ai:
   - Custom training pipelines (PyTorch/TensorFlow)
   - Model Garden & Model Armor integration
@@ -216,7 +216,7 @@ compute:
   - Cloud Run (serverless ML inference)
   - Compute Engine (GPU: A100/H100)
   - Batch (distributed training)
-```
+
 
 </details>
 
@@ -269,7 +269,7 @@ compute:
 <details>
 <summary>📈 <b>ACTIVITY LEGEND</b></summary>
 
-```text
+text
 █  LEVEL 0  ░░░░░░░░░░  No activity (system idle)
 █  LEVEL 1  █░░░░░░░░░  Low activity  (1-3 commits)
 █  LEVEL 2  ██░░░░░░░░  Moderate      (4-7 commits)
@@ -279,7 +279,7 @@ compute:
 
 // Snake animation = automated workflows (LeetCode sync, CI/CD)
 // 3D bars = commit volume per day (height = intensity)
-```
+
 
 </details>
 
@@ -303,7 +303,7 @@ compute:
 <details>
 <summary>⚔️ <b>COMBAT STATISTICS</b></summary>
 
-```yaml
+yaml
 username: "9vxelmrGYL"
 ranking: "Top 15% Global"
 problems_solved: "450+"
@@ -321,7 +321,7 @@ language_distribution:
   Python: "25%"
   C++: "10%"
 auto_sync: "ENABLED // GitHub Actions // Daily 03:00 UTC"
-```
+
 
 </details>
 
@@ -339,7 +339,7 @@ auto_sync: "ENABLED // GitHub Actions // Daily 03:00 UTC"
 <details open>
 <summary>🤖 <b>PROJECT NEURAL VISUALIZER</b> <span style="color:#00FF88">[STATUS: ACTIVE DEVELOPMENT]</span></summary>
 
-```yaml
+yaml
 codename: "AIVisualizer3D"
 classification: "Real-time Neural Network Visualization Engine"
 repository: "github.com/Suryansh-54-tech/AIVisualizer3D"
@@ -374,14 +374,14 @@ roadmap:
   - "WebGPU port (WASM + WebAssembly)"
   - "AR/VR passthrough mode (OpenXR)"
   - "Plugin API for custom layer visualizers"
-```
+
 
 </details>
 
 <details>
 <summary>📚 <b>LEETCODE AUTO-SYNC PIPELINE</b> <span style="color:#00FF88">[STATUS: OPERATIONAL]</span></summary>
 
-```yaml
+yaml
 pipeline: "GitHub Actions → LeetCode API → Git Commit"
 schedule: "Daily 03:00 UTC + On push (manual trigger)"
 repository: "github.com/Suryansh-54-tech/LeetCode-Solutions"
@@ -404,14 +404,14 @@ stats:
   languages: "Java (primary), Python, C++"
   success_rate: "99.2%"
   last_sync: "$(date -u +%Y-%m-%d)"
-```
+
 
 </details>
 
 <details>
 <summary>🔐 <b>CYBER SECURITY TOOLKIT</b> <span style="color:#FF00FF">[STATUS: CLASSIFIED]</span></summary>
 
-```text
+text
 ┌─────────────────────────────────────────────────────────────────┐
 │  OFFENSIVE CAPABILITIES                                         │
 ├─────────────────────────────────────────────────────────────────┤
@@ -431,7 +431,7 @@ stats:
 │  • Container Escape Detection (eBPF + Falco rules)              │
 │  • Supply Chain Integrity (SLSA + Sigstore/Cosign)              │
 └─────────────────────────────────────────────────────────────────┘
-```
+
 
 </details>
 
@@ -489,11 +489,11 @@ stats:
 <details>
 <summary>🔐 <b>PGP PUBLIC KEY</b> — Click to reveal</summary>
 
-```text
+text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mDMEZ... (available on Keybase: keybase.io/suryansh54)
 -----END PGP PUBLIC KEY BLOCK-----
-```
+
 <sub>Fingerprint: <code>A1B2 C3D4 E5F6 7890 1234  5678 9ABC DEF0 1234 5678</code></sub>
 
 </details>
@@ -519,7 +519,7 @@ mDMEZ... (available on Keybase: keybase.io/suryansh54)
 <details>
 <summary>🎮 <b>KONAMI CODE ACTIVATED</b> — ████████████ 100%</summary>
 
-```text
+text
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 █  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  █
 █  ░  ACCESS GRANTED: DEVELOPER MODE ENABLED                    ░  █
@@ -533,6 +533,6 @@ mDMEZ... (available on Keybase: keybase.io/suryansh54)
 █  ░  ████████████████████████████████████████████████████████  ░  █
 █  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  █
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
+
 
 </details>
