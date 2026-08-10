@@ -71,6 +71,7 @@ COLLABORATION_PROTOCOLS:
 SECURE_CHANNEL:
   email: "suryansh.ssingh45@gmail.com"
   pgp: "Available on request"
+
 </details>
 
 <p align="center">
@@ -84,6 +85,12 @@ SECURE_CHANNEL:
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=4285F4&center=true&vCenter=true&width=500&lines=GOOGLE_DEVELOPER_PROGRAM_%3A%3A_CREDENTIALS" alt="GDP Header" />
 </h2>
 
+<!--
+  NOTE: verify this profile URL still resolves before publishing — Google Developer
+  Program public profile URLs follow the pattern
+  https://developers.google.com/profile/u/<your-actual-handle>
+  and 404 if the handle doesn't match exactly.
+-->
 <p align="center">
   <a href="https://developers.google.com/profile/u/suryansh-singh">
     <img src="https://img.shields.io/badge/Google_Developer_Program-MEMBER-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDP Member" />
@@ -132,6 +139,7 @@ SECURE_CHANNEL:
 
 <details>
 <summary>🔧 <b>EXPANDED ARSENAL</b> — Click to reveal full loadout</summary>
+
 text
 ╔════════════════════════════════════════════════════════════════════╗
 ║  LANGUAGES                                                          ║
@@ -209,6 +217,7 @@ compute:
   - Compute Engine (GPU: A100/H100)
   - Batch (distributed training)
 
+
 </details>
 
 <p align="center">
@@ -222,9 +231,19 @@ compute:
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=NEURAL_ACTIVITY_%3A%3A_GITHUB_ANALYTICS" alt="Analytics Header" />
 </h2>
 
+<!--
+  RELIABILITY NOTE: github-readme-stats.vercel.app is the public shared instance.
+  It is well documented (upstream repo issues #4431, #4680, and the project's own
+  README) as prone to 503s and "API rate limit exceeded" errors under load, because
+  it shares one GitHub API quota across everyone using the public URL.
+  If these cards start showing blank/broken on your profile, the fix is to deploy
+  your own free instance (fork -> Vercel -> add your own GitHub PAT as an env var)
+  and swap the domain below for your own *.vercel.app URL. Until then this is the
+  best publicly available option and will mostly work, just not 100% guaranteed.
+-->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Suryansh-54-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=00FFFF&icon_color=8B00FF&text_color=ffffff&border_radius=16&custom_title=NEURAL_ACTIVITY_LOG&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh-54-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=00FFFF&text_color=ffffff&border_radius=16&custom_title=LANGUAGE_MATRIX&langs_count=10" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Suryansh-54-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=00FFFF&icon_color=8B00FF&text_color=ffffff&border_radius=16&custom_title=NEURAL_ACTIVITY_LOG&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh-54-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=00FFFF&text_color=ffffff&border_radius=16&custom_title=LANGUAGE_MATRIX&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -250,6 +269,13 @@ compute:
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=CONTRIBUTION_SKYLINE_%3A%3A_3D_MATRIX" alt="3D Contrib Header" />
 </h2>
 
+<!--
+  SETUP REQUIRED: these two images only exist once an automated workflow commits
+  them to an "output" branch of this repo. If you haven't already, add the
+  Platane/snk GitHub Action (github.com/Platane/snk) with a scheduled workflow
+  that runs on a cron and pushes to the "output" branch — until that workflow
+  has run at least once, both images below will 404.
+-->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suryansh-54-tech/Suryansh-54-tech/output/github-contribution-grid-snake-dark.svg">
@@ -291,6 +317,13 @@ text
   </a>
 </p>
 
+<!--
+  NOTE: everything below (ranking, problems_solved, contest_rating, streak) is
+  hand-typed, not fetched live — the leetcard image above is the only piece that
+  is actually live data. If you want these numbers to stay accurate, either update
+  them manually alongside the LeetCode-Solutions auto-sync, or drop them and let
+  the leetcard image speak for itself so nothing here can go stale.
+-->
 <details>
 <summary>⚔️ <b>COMBAT STATISTICS</b></summary>
 
@@ -312,7 +345,6 @@ language_distribution:
   Python: "25%"
   C++: "10%"
 auto_sync: "ENABLED // GitHub Actions // Daily 03:00 UTC"
-
 
 </details>
 
@@ -423,7 +455,6 @@ text
 │  • Supply Chain Integrity (SLSA + Sigstore/Cosign)               │
 └─────────────────────────────────────────────────────────────────┘
 
-
 </details>
 
 <p align="center">
@@ -437,6 +468,12 @@ text
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=RESUME_%3A%3A_CLASSIFIED_DOSSIER" alt="Resume Header" />
 </h2>
 
+<!--
+  NOTE: a Google Drive "view" link requires the file's sharing setting to be
+  "Anyone with the link" or it will show an access-denied page to visitors who
+  aren't signed into an authorized Google account. Double-check the sharing
+  permissions on this file before publishing.
+-->
 <p align="center">
   <a href="https://drive.google.com/file/d/1BzC1sf2456BqeSTmdvfF4QmH6OvXIXxG/view?usp=drive_link">
     <img src="https://img.shields.io/badge/ACCESS_DOSSIER-000000?style=for-the-badge&logo=googledrive&logoColor=00FFFF&labelColor=0a0a2e" alt="Resume" />
@@ -472,7 +509,13 @@ text
   <a href="https://www.instagram.com/__suryansh__54/">
     <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0a0a2e" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/your-invite">
+  <!--
+    FIXED: the Discord badge previously pointed at the literal placeholder
+    "discord.gg/your-invite", which 404s. Replace the href below with your
+    real, non-expiring Discord invite link before publishing — or delete this
+    badge entirely if you don't want a public Discord presence.
+  -->
+  <a href="https://discord.gg/REPLACE_WITH_YOUR_REAL_INVITE">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=00FFFF&labelColor=0a0a2e" alt="Discord" />
   </a>
 </p>
@@ -480,13 +523,22 @@ text
 <details>
 <summary>🔐 <b>PGP PUBLIC KEY</b> — Click to reveal</summary>
 
+<!--
+  NOTE: the block below was placeholder text ("mDMEZ...") rather than a real
+  PGP key. Either paste your actual exported public key block here
+  (gpg --armor --export you@example.com) or remove this section entirely —
+  publishing a fake key block is worse than not having one, since anyone who
+  tries to use it will fail silently.
+-->
 text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-mDMEZ... (available on Keybase: keybase.io/suryansh54)
+
+<paste your real exported public key here, or remove this section>
+
 -----END PGP PUBLIC KEY BLOCK-----
 
 
-<sub>Fingerprint: <code>A1B2 C3D4 E5F6 7890 1234  5678 9ABC DEF0 1234 5678</code></sub>
+<sub>Fingerprint: verify on Keybase: keybase.io/suryansh54</sub>
 
 </details>
 
