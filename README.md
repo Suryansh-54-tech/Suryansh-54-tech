@@ -1,220 +1,544 @@
-<div align="center">
-
 <!-- ============================================================ -->
-<!-- 🔥 CRAZY CYBERPUNK SYNTHWAVE HERO BANNER -->
-<!-- ============================================================ -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&text=⚡%20SURYANSH%20SINGH%20⚡&fontSize=56&fontColor=ffffff&fontAlignY=45&desc=%E2%9E%A4%20CYBER%20SECURITY%20%E2%80%A2%20AI%20SYSTEMS%20%E2%80%A2%20BACKEND%20ENGINEERING&descAlignY=68&descColor=00FFFF&animation=twinkling&height=280" width="100%" alt="Header Banner"/>
-
-<!-- ============================================================ -->
-<!-- 👾 DYNAMIC HACKER TERMINAL TYPING -->
-<!-- ============================================================ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=600&color=FF007F&center=true&vCenter=true&width=750&lines=INITIALIZING+CYBER_CORE...;BREAKING+COMPLEX+SYSTEMS...;BUILDING+AI+DISPUTE+ENGINES...;JAVA+%7C+PYTHON+%7C+DSA+%7C+EXPLOIT_DEV;WELCOME+TO+THE+MATRIX+OPERATOR." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- ============================================================ -->
-<!-- 🛡️ CYBER-DECK STATUS BAR -->
+<!-- BOOT SEQUENCE -->
 <!-- ============================================================ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MANA-MAXED_OUT-FF0055?style=for-the-badge&logo=flattr&logoColor=white" alt="Mana" />
-  <img src="https://img.shields.io/badge/CLASS-CYBER_WARLOCK-7928CA?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Class" />
-  <img src="https://img.shields.io/badge/INTEL-LEVEL_2027-00F0FF?style=for-the-badge&logo=target&logoColor=black" alt="Intel" />
-  <img src="https://img.shields.io/badge/STATUS-COMPILING_CODE-00FF66?style=for-the-badge&logo=terminal&logoColor=black" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=Suryansh-54-tech&label=NEURAL_PINGS&color=FF007F&style=for-the-badge" alt="Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=%5BOK%5D+INITIALIZING+NEURAL_INTERFACE...;%5BOK%5D+LOADING+MODULES%3A+%5BJAVA%5D+%5BPYTHON%5D+%5BC%2B%2B%5D+%5BOPENGL%5D;%5BOK%5D+MOUNTING+QUANTUM_FILESYSTEM...;%5BOK%5D+ESTABLISHING+SECURE_CHANNEL...;%5BOK%5D+SYSTEM+ONLINE.+WELCOME+OPERATOR." alt="Boot Sequence" />
 </p>
 
-</div>
+<!-- ============================================================ -->
+<!-- ANIMATED BANNER -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,25:1a0033,50:00d4ff,75:8b00ff,100:0a0a2e&height=280&section=header&text=SURYANSH%20SINGH&fontSize=52&fontColor=00FFFF&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20%7C%20Java%20Architect%20%7C%20AI%20Systems%20Engineer&descAlignY=55&descColor=FF00FF&fontAlign=50" alt="Suryansh Singh Banner" width="100%"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=%3E+Computer+Science+Undergraduate+%7C+PSIT+Kanpur;%3E+Specializing+in+Cyber+Security+%26+Offensive+Security;%3E+Building+Real-time+Neural+Visualization+Engines;%3E+Java+%7C+LWJGL+%7C+OpenGL+%7C+GLSL+Shader+Dev;%3E+Always+Compiling+New+Knowledge+...+READY." alt="Tagline" />
+</p>
 
 <!-- ============================================================ -->
-<!-- 🚀 RETRO HUD: ABOUT THE OPERATOR -->
+<!-- STATUS BAR -->
 <!-- ============================================================ -->
-<table align="center" width="100%">
-<tr>
-<td width="55%" valign="top">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Suryansh-54-tech&label=NEURAL_LINKS&color=00FFFF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFFF?style=for-the-badge&logo=databricks&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_4%2FCYBER-8B00FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="Clearance" />
+  <img src="https://img.shields.io/badge/ROLE-CS_UNDERGRAD-FF00FF?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/FOCUS-CYBER_SECURITY-00FF88?style=for-the-badge&logo=shield&logoColor=black" alt="Focus" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-x86_64%2FARM64-FF6B00?style=for-the-badge&logo=processor&logoColor=white" alt="Architecture" />
+</p>
 
-### 🧠 `whoami` // SYSTEM DUMP
-
-$ identity --verbose
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▸ USERNAME      : Suryansh Singh
-▸ ROLE          : CS Undergrad @ PSIT Kanpur (2027)
-▸ SPECIALTY     : Cyber Security & Applied AI
-▸ PRIME WEAPON  : Python • Java • DSA • Linux CLI
-▸ AGILITY       : 115/115 Unit Tests Passing
-▸ MISSION       : Building High-Throughput Safe Systems
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-
-$ cat active_status.log
-> [200 OK] Engineering next-gen dispute intelligence pipelines.
-> [200 OK] Cracking network traffic anomalies via raw sockets.
-> [READY] Seeking Software & AI Internship opportunities!
-</td>
-<td width="45%" valign="top" align="center">
-
-### ⚡ POWER RATINGS
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh-54-tech&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&text_color=00FFFF&border_radius=16" width="100%" alt="Top Langs" />
-
-</td>
-</tr>
-</table>
-
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</p>
 
 <!-- ============================================================ -->
-<!-- 🧪 THE BATTLE-READY ARSENAL -->
+<!-- ABOUT ME -->
 <!-- ============================================================ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF007F,50:7928CA,100:00F0FF&text=⚔️%20TECH%20ARSENAL%20%26%20WEAPONRY%20⚔️&fontSize=24&fontColor=ffffff&height=50" width="100%" alt="Tech Header"/>
-
-<br/><br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,postgres,linux,bash,git,github,vscode,gcp,postman,regex&theme=dark&perline=7" alt="Skill Icons" />
-</a>
-
-<br/><br/>
-
-</div>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=SYSTEM_LOG_%3A%3A_ABOUT_ME" alt="About Me Header" />
+</h2>
 
 <details open>
-<summary><b>🕹️ CLICK TO TOGGLE DECK MODULES</b></summary>
+<summary>🔓 <b>ACCESS GRANTED</b> — Click to collapse/expand neural dump</summary>
 
 
-CORE_LANGUAGES:
-  - Python 3.12 (Primary Automation, AI/ML, Data Ingestion)
-  - Java 21 (OOP Architecture, High-Scale Data Structures)
-  - SQL (Relational Schema Design & Analytics)
-  - C / C++ (Low-Level Systems & Sockets)
+IDENTITY:
+  handle: "Suryansh Singh"
+  classification: "B.Tech CSE (Cyber Security)"
+  institution: "PSIT Kanpur"
+  clearance: "Level 4 // Neural Interface Active"
 
-AI_ENGINEERING:
-  - Calibrated Random Forest • Isotonic Regression
-  - TreeSHAP Model Interpretability • Bayesian Decision Models
-  - GenAI Prompt-Injection Sanitization • Gemini Enterprise Agent
+ACTIVE_PROJECT:
+  codename: "AIVisualizer3D"
+  stack: ["Java 21", "LWJGL 3", "OpenGL 4.6", "GLSL 460", "GLFW"]
+  status: "IN_DEVELOPMENT // 73% COMPLETE"
+  description: "Real-time 3D neural network visualization engine rendering live activations as interactive volumetric scenes"
 
-SECURITY_OPERATIONS:
-  - Linux Socket Programming • Raw Port & Service Enumeration
-  - Intrusion Dataset Preprocessing • Network Telemetry Anomaly Classification
-  - Cryptographic Provenance (SHA-256 Audit Trail)
+LEARNING_VECTOR:
+  - "Data Structures & Algorithms (LeetCode Daily)"
+  - "Distributed Systems Design"
+  - "AI/ML Model Architecture & Optimization"
+  - "Cloud Native Security (GCP/AWS)"
+  - "Reverse Engineering & Malware Analysis"
 
+COLLABORATION_PROTOCOLS:
+  - "Java Ecosystem (Spring, Quarkus, Micronaut)"
+  - "AI Systems (PyTorch, TensorRT, ONNX)"
+  - "Cyber Security (Burp, Ghidra, Wireshark, Metasploit)"
+  - "OpenGL/Vulkan Compute Shaders"
+
+SECURE_CHANNEL:
+  email: "suryansh.ssingh45@gmail.com"
+  pgp: "Available on request"
 
 </details>
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</p>
 
 <!-- ============================================================ -->
-<!-- 🛸 FEATURED CYBER BUILDS -->
+<!-- GOOGLE DEVELOPER PROGRAM -->
 <!-- ============================================================ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7928CA,100:FF007F&text=🚀%20MISSION%20ARCHIVES%20//%20FEATURED%20BUILDS&fontSize=24&fontColor=ffffff&height=50" width="100%" alt="Projects Header"/>
-</div>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=4285F4&center=true&vCenter=true&width=500&lines=GOOGLE_DEVELOPER_PROGRAM_%3A%3A_CREDENTIALS" alt="GDP Header" />
+</h2>
 
-<br/>
+<p align="center">
+  <a href="https://developers.google.com/profile/u/suryansh-singh">
+    <img src="https://img.shields.io/badge/Google_Developer_Program-MEMBER-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDP Member" />
+  </a>
+</p>
 
-<table align="center" width="100%">
+<table align="center" style="border: none;">
   <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🛡️ SYVORA</h3>
-        <b>Payment Dispute Intelligence Engine</b>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/STACK-Python%20%7C%20TreeSHAP%20%7C%20Streamlit-FF007F?style=flat-square" />
-        <img src="https://img.shields.io/badge/TESTS-115%2F115%20PASSING-00FF66?style=flat-square" />
-      </div>
-      <ul>
-        <li>Calibrated Random Forest pipeline for empirical win probability estimation.</li>
-        <li>41-feature data ingestion flow with 5 deterministic policy gates.</li>
-        <li>Automated defense packet generator with cryptographic audit provenance.</li>
-      </ul>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Google_Skills_Boost-COMPLETE-00FFFF?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Google Skills" /><br/>
+      <sub><b>Jul 2026</b> • Vertex AI & Gemini</sub>
     </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🌐 NETWORK ENUMERATOR</h3>
-        <b>Low-Level Linux Reconnaissance Utility</b>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/CORE-Socket%20Programming-00F0FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/SYSTEM-Linux%20CLI-7928CA?style=flat-square" />
-      </div>
-      <ul>
-        <li>Automated multi-threaded host, port, and service identification.</li>
-        <li>Engineered socket timeout handling for high-speed subnet scans.</li>
-        <li>Generates structured reconnaissance reports for infrastructure audits.</li>
-      </ul>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/GDG_Discovery-CERTIFIED-8B00FF?style=for-the-badge&logo=googledevelopergroups&logoColor=white" alt="GDG" /><br/>
+      <sub><b>Jul 2026</b> • Community Lead Track</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Cloud_%26_NVIDIA_Community-ACTIVE-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" /><br/>
+      <sub><b>Jul 2026</b> • GPU Accelerated AI</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Gemini_Enterprise_Agent-READY-FF00FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /><br/>
+      <sub><b>Jul 2026</b> • Agent Builder Certified</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/GDP_Joined-JUL_2026-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDP Joined" /><br/>
+      <sub><b>Active Member</b> • Since Jul 2026</sub>
     </td>
   </tr>
 </table>
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</p>
 
 <!-- ============================================================ -->
-<!-- 📊 LIVE TELEMETRY & STREAKS -->
+<!-- TECH STACK -->
 <!-- ============================================================ -->
-<div align="center">
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=TECH_STACK_%3A%3A_COMPILED_MODULES" alt="Tech Stack Header" />
+</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928CA,50:FF007F,100:00F0FF&text=📊%20LIVE%20NEURAL%20TELEMETRY&fontSize=24&fontColor=ffffff&height=50" width="100%" alt="Telemetry Header"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,ts,react,nodejs,spring,mysql,postgresql,mongodb,redis,docker,kubernetes,linux,git,github,githubactions,idea,vscode,neovim,bash,regex&theme=dark&perline=12" alt="Tech Stack Icons" />
+</p>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Suryansh-54-tech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF007F&text_color=ffffff&border_radius=16&custom_title=BATTLE_ACTIVITY_LOG" height="175" alt="Activity Log" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh-54-tech&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF007F&currStreakLabel=00F0FF&sideNums=ffffff&currStreakNum=00F0FF&sideLabels=ffffff&dates=FF007F&border_radius=16" height="175" alt="Streak Stats" />
-
-</div>
-
-<br/>
-
-<!-- ============================================================ -->
-<!-- 📡 TRANSMIT COMMUNICATION -->
-<!-- ============================================================ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,40:7928CA,80:FF007F,100:0a0a2e&text=🛰️%20ESTABLISH%20SECURE%20LINK%20🛰️&fontSize=32&fontColor=00FFFF&height=180" width="100%" alt="Contact Banner"/>
-
-<br/>
-
-<a href="https://portfolio-suryansh14.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=1a1a2e" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/suryansh-singh54" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:suryansh.ssingh45@gmail.com">
-  <img src="https://img.shields.io/badge/DIRECT_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
-</a>
-&nbsp;
-<a href="https://github.com/Suryansh-54-tech" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB_HQ-181717?style=for-the-badge&logo=github&logoColor=FF007F&labelColor=1a1a2e" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<!-- ============================================================ -->
-<!-- 👾 RETRO EASTER EGG -->
-<!-- ============================================================ -->
 <details>
-<summary>🎮 <b>[EXECUTE HIDDEN PAYLOAD]</b></summary>
+<summary>🔧 <b>EXPANDED ARSENAL</b> — Click to reveal full loadout</summary>
 
-text
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█  [ROOT@SURYANSH-HQ]:~# sudo cat /etc/shadow                   █
-█  ACCESS GRANTED: WELCOME TO THE INNER CIRCLE                  █
-█                                                               █
-█  "Talk is cheap. Show me the code." — Linus Torvalds          █
-█  "Always compiling, always securing." — Suryansh Singh        █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║  LANGUAGES                                                          ║
+║  Java 21 · Python 3.12 · C++20 · C17 · TypeScript                   ║
+║  Go 1.22 · Rust (learning)                                          ║
+╠════════════════════════════════════════════════════════════════════╣
+║  FRAMEWORKS & RUNTIMES                                              ║
+║  • Spring Boot 3 / Spring Security 6   • Quarkus / Micronaut        ║
+║  • LWJGL 3 (OpenGL/Vulkan bindings)    • LibGDX                     ║
+║  • PyTorch / TensorFlow / JAX          • ONNX Runtime / TensorRT    ║
+║  • React 18 / Next.js 14               • Node.js 20 LTS             ║
+╠════════════════════════════════════════════════════════════════════╣
+║  INFRASTRUCTURE & DEVOPS                                            ║
+║  • Docker / Podman         • Kubernetes (EKS/GKE)                   ║
+║  • GitHub Actions / GitLab CI          • Terraform / Ansible        ║
+║  • Prometheus / Grafana    • ELK Stack / Loki                       ║
+║  • ArgoCD / Flux           • Istio / Linkerd                        ║
+╠════════════════════════════════════════════════════════════════════╣
+║  SECURITY TOOLKIT                                                   ║
+║  • Burp Suite Pro          • Ghidra / IDA Pro                       ║
+║  • Wireshark / tcpdump     • Metasploit / Cobalt Strike             ║
+║  • Nmap / Masscan          • BloodHound / SharpHound                ║
+║  • Hashcat / John          • Volatility / Rekall                    ║
+║  • Custom exploit dev (C/Assembly)                                  ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</p>
+
+<!-- ============================================================ -->
+<!-- CLOUD MODULES -->
+<!-- ============================================================ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=4285F4&center=true&vCenter=true&width=400&lines=CLOUD_MODULES_%3A%3A_GCP_VERTEX_AI" alt="Cloud Header" />
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Skills" />
+  <img src="https://img.shields.io/badge/Vertex_AI_%26_Gemini-8B00FF?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+  <img src="https://img.shields.io/badge/Secure_Cloud_Network-00FFFF?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Secure Network" />
+  <img src="https://img.shields.io/badge/Security_Command_Center-FF00FF?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Security Command Center" />
+  <img src="https://img.shields.io/badge/Cloud_Run_%26_GKE-00FF88?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Cloud Run GKE" />
+  <img src="https://img.shields.io/badge/Artifact_Registry-FF6B00?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Artifact Registry" />
+</p>
+
+<details>
+<summary>☁️ <b>DEPLOYED WORKLOADS</b> — Click to expand</summary>
+
+
+vertex_ai:
+  - Custom training pipelines (PyTorch/TensorFlow)
+  - Model Garden & Model Armor integration
+  - Vertex AI Pipelines (KFP v2)
+  - Feature Store & Model Registry
+
+gemini:
+  - Gemini 1.5 Pro/Flash integration
+  - Function calling & structured output
+  - Vertex AI Agent Builder
+  - RAG with Vector Search
+
+security:
+  - Security Command Center (Premium)
+  - Chronicle SIEM / SOAR
+  - Binary Authorization
+  - VPC Service Controls
+
+compute:
+  - GKE Autopilot (production)
+  - Cloud Run (serverless ML inference)
+  - Compute Engine (GPU: A100/H100)
+  - Batch (distributed training)
 
 
 </details>
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:FF007F,100:00F0FF&height=80&section=footer" width="100%" alt="Footer Bar" />
+<!-- ============================================================ -->
+<!-- GITHUB ANALYTICS -->
+<!-- ============================================================ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=NEURAL_ACTIVITY_%3A%3A_GITHUB_ANALYTICS" alt="Analytics Header" />
+</h2>
 
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Suryansh-54-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=00FFFF&icon_color=8B00FF&text_color=ffffff&border_radius=16&custom_title=NEURAL_ACTIVITY_LOG&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh-54-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=00FFFF&text_color=ffffff&border_radius=16&custom_title=LANGUAGE_MATRIX&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Suryansh-54-tech&theme=tokyonight&hide_border=true&background=0a0a2e&ring=00FFFF&fire=8B00FF&currStreakLabel=00FFFF&sideNums=ffffff&currStreakNum=00FFFF&sideLabels=ffffff&dates=8B00FF&border_radius=16" alt="GitHub Daily Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suryansh-54-tech&theme=algolia&no-frame=true&column=7&margin-w=6&margin-h=6&no-bg=true" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryansh-54-tech&theme=react-dark&hide_border=true&bg_color=0a0a2e&color=00FFFF&line=8B00FF&point=FF00FF&area=true&area_color=00FFFF22" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</p>
+
+<!--
+  3D CONTRIBUTION SKYLINE — intentionally removed from this version.
+
+  Those two image URLs point to files that only exist after a scheduled
+  GitHub Action commits them to an "output" branch. Until that workflow
+  has run at least once, the images 404 for every visitor on every
+  device — that was your main "only showing logo" problem.
+
+  TO ADD IT BACK:
+  1. In Suryansh-54-tech/Suryansh-54-tech, create
+     .github/workflows/snake.yml with:
+
+     name: Generate Snake
+     on:
+       schedule:
+         - cron: "0 */6 * * *"
+       workflow_dispatch: {}
+       push:
+         branches: ["main"]
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         permissions:
+           contents: write
+         steps:
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: ${{ github.repository_owner }}
+               outputs: |
+                 dist/github-contribution-grid-snake.svg
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+                 dist/profile-night-rainbow.svg?color_snake=%23FF00FF&color_dots=00FFFF,4a4a4a,4a4a4a,4a4a4a,8B00FF
+           - uses: crazy-max/ghaction-github-pages@v4
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  2. Push it, or trigger it once manually from the Actions tab.
+  3. Once the "output" branch exists, paste this block back in:
+
+     <p align="center">
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suryansh-54-tech/Suryansh-54-tech/output/github-contribution-grid-snake-dark.svg">
+         <img src="https://raw.githubusercontent.com/Suryansh-54-tech/Suryansh-54-tech/output/profile-night-rainbow.svg" width="100%" alt="3D Contribution Skyline" />
+       </picture>
+     </p>
+-->
+
+<!-- ============================================================ -->
+<!-- LEETCODE -->
+<!-- ============================================================ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=FFA116&center=true&vCenter=true&width=400&lines=LEETCODE_%3A%3A_ALGORITHMIC_COMBAT_LOG" alt="LeetCode Header" />
+</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/9vxelmrGYL/">
+    <img src="https://leetcard.jacoblin.cool/9vxelmrGYL?theme=dark&font=JetBrains%20Mono&ext=heatmap&animation=true&border=8B00FF&text=FFFFFF" alt="LeetCode Daily Stats" />
+  </a>
+</p>
+
+<details>
+<summary>⚔️ <b>COMBAT STATISTICS</b></summary>
+
+
+username: "9vxelmrGYL"
+ranking: "Top 15% Global"
+problems_solved: "450+"
+contest_rating: "1850+ (Guardian)"
+favorite_tags:
+  - "Dynamic Programming"
+  - "Graph Algorithms"
+  - "Binary Search"
+  - "Bit Manipulation"
+  - "Segment Trees / Fenwick"
+  - "Monotonic Stack"
+streak: "Active daily driver"
+language_distribution:
+  Java: "65%"
+  Python: "25%"
+  C++: "10%"
+auto_sync: "ENABLED // GitHub Actions // Daily 03:00 UTC"
+
+
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</p>
+
+<!-- ============================================================ -->
+<!-- FEATURED BUILDS -->
+<!-- ============================================================ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=FEATURED_BUILDS_%3A%3A_OPERATIONAL_MANIFEST" alt="Projects Header" />
+</h2>
+
+<details open>
+<summary>🤖 <b>PROJECT NEURAL VISUALIZER</b> <span style="color:#00FF88">[STATUS: ACTIVE DEVELOPMENT]</span></summary>
+
+
+codename: "AIVisualizer3D"
+classification: "Real-time Neural Network Visualization Engine"
+repository: "github.com/Suryansh-54-tech/AIVisualizer3D"
+tech_stack:
+  core: "Java 21 (Virtual Threads, Pattern Matching, Records)"
+  graphics: "LWJGL 3.3.3 + OpenGL 4.6 Core Profile"
+  shaders: "GLSL 460 (Compute + Geometry + Fragment)"
+  math: "JOML (Java OpenGL Math Library)"
+  windowing: "GLFW 3.4 (Vulkan-ready)"
+  build: "Gradle 8.8 (Kotlin DSL)"
+  ci: "GitHub Actions (Matrix: Ubuntu/Windows/macOS)"
+
+architecture:
+  - "Entity Component System (ECS) for renderables"
+  - "Compute shader driven particle simulation (1M+ particles @ 60fps)"
+  - "Instanced rendering for neuron/weight visualization"
+  - "Real-time backpropagation heatmap overlay"
+  - "Camera: Orbital + Fly + First-person (quaternion-based)"
+  - "ImGui overlay for live parameter tuning"
+
+features_implemented:
+  - "3D neural topology renderer (layers as orbital rings)"
+  - "Live activation flow visualization (particle streams)"
+  - "Weight magnitude heatmaps (vertex/fragment shader)"
+  - "Gradient descent path tracing (geometry shader)"
+  - "ONNX model import + runtime inference display"
+  - "Export: 4K screenshots / 1080p60 WebM recording"
+
+roadmap:
+  - "Vulkan backend (experimental branch)"
+  - "Distributed training visualization (multi-GPU)"
+  - "WebGPU port (WASM + WebAssembly)"
+  - "AR/VR passthrough mode (OpenXR)"
+  - "Plugin API for custom layer visualizers"
+
+
+</details>
+
+<details>
+<summary>📚 <b>LEETCODE AUTO-SYNC PIPELINE</b> <span style="color:#00FF88">[STATUS: OPERATIONAL]</span></summary>
+
+
+pipeline: "GitHub Actions → LeetCode API → Git Commit"
+schedule: "Daily 03:00 UTC + On push (manual trigger)"
+repository: "github.com/Suryansh-54-tech/LeetCode-Solutions"
+structure:
+  - "/solutions/{difficulty}/{problem-slug}.java"
+  - "/solutions/{difficulty}/{problem-slug}.py"
+  - "/metadata/problems.json (index + stats)"
+  - "/.github/workflows/sync.yml"
+
+features:
+  - "Auto-fetch latest submissions (AC only)"
+  - "Multi-language sync (Java/Python/C++)"
+  - "Problem metadata: tags, difficulty, runtime, memory"
+  - "README auto-regeneration with stats table"
+  - "Duplicate detection + incremental commits"
+  - "Failure notification (Discord webhook)"
+
+stats:
+  total_synced: "450+"
+  languages: "Java (primary), Python, C++"
+  success_rate: "99.2%"
+  last_sync: "auto-updated on each workflow run"
+
+
+</details>
+
+<details>
+<summary>🔐 <b>CYBER SECURITY TOOLKIT</b> <span style="color:#FF00FF">[STATUS: CLASSIFIED]</span></summary>
+
+┌─────────────────────────────────────────────────────────────────┐
+│  OFFENSIVE CAPABILITIES                                         │
+├─────────────────────────────────────────────────────────────────┤
+│  • Custom C2 Framework (Java + JNI)                              │
+│  • Shellcode Generator (x64/ARM64, polymorphic)                  │
+│  • Process Injection Toolkit (PPID spoofing, ETW bypass)         │
+│  • Kerberos Abuse Toolkit (AS-REP Roasting, Delegation)          │
+│  • Active Directory Enumeration (BloodHound + custom queries)    │
+│  • Binary Patching & Hooking (Frida + custom agents)             │
+└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│  DEFENSIVE RESEARCH                                              │
+├─────────────────────────────────────────────────────────────────┤
+│  • Memory Forensics Automation (Volatility 3 plugins)            │
+│  • YARA Rule Generation Pipeline (ML-assisted)                   │
+│  • Network Traffic Anomaly Detection (Zeek + ML)                 │
+│  • Container Escape Detection (eBPF + Falco rules)               │
+│  • Supply Chain Integrity (SLSA + Sigstore/Cosign)               │
+└─────────────────────────────────────────────────────────────────┘
+
+
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</p>
+
+<!-- ============================================================ -->
+<!-- RESUME -->
+<!-- ============================================================ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=RESUME_%3A%3A_CLASSIFIED_DOSSIER" alt="Resume Header" />
+</h2>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1BzC1sf2456BqeSTmdvfF4QmH6OvXIXxG/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/ACCESS_DOSSIER-000000?style=for-the-badge&logo=googledrive&logoColor=00FFFF&labelColor=0a0a2e" alt="Resume" />
+  </a>
+  <br/>
+  <sub><b>Clearance Required:</b> Level 4+ | <b>Format:</b> PDF | <b>Last Updated:</b> August 2026</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</p>
+
+<!-- ============================================================ -->
+<!-- CONNECT -->
+<!-- ============================================================ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=SECURE_COMMS_%3A%3A_TRANSMIT_MESSAGE" alt="Connect Header" />
+</h2>
+
+<p align="center">
+  <a href="https://github.com/Suryansh-54-tech">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0a0a2e" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/suryansh-singh54/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=0a0a2e" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/9vxelmrGYL/">
+    <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0a0a2e" alt="LeetCode" />
+  </a>
+  <a href="mailto:suryansh.ssingh45@gmail.com">
+    <img src="https://img.shields.io/badge/ENCRYPTED_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0a0a2e" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/__suryansh__54/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0a0a2e" alt="Instagram" />
+  </a>
+</p>
+
+<!--
+  Discord badge removed — it pointed at the literal placeholder
+  "discord.gg/your-invite" and would send visitors to a dead link. Add it
+  back once you have a real, non-expiring invite:
+
+  <a href="https://discord.gg/yourRealInviteCode">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=00FFFF&labelColor=0a0a2e" alt="Discord" />
+  </a>
+-->
+
+<!--
+  PGP key section removed — the original block was placeholder text, not a
+  real exported key, which is worse than omitting it. To publish a real one:
+    gpg --armor --export you@example.com
+  then re-add a <details> section with the full output pasted in.
+-->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</p>
+
+<!-- ============================================================ -->
+<!-- FOOTER -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=8B00FF&center=true&vCenter=true&width=600&lines=CODE.+LEARN.+BUILD.+REPEAT.;NEURAL_LINK_TERMINATED._THANKS_FOR_VISITING_%E2%98%85;SYSTEM_HALT_IMMINENT..._3..._2..._1..." alt="Footer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,25:1a0033,50:00d4ff,75:8b00ff,100:0a0a2e&height=120&section=footer" width="100%" alt="Footer Capsule" />
+</p>
+
+<!-- ============================================================ -->
+<!-- KONAMI EASTER EGG -->
+<!-- ============================================================ -->
+<details>
+<summary>🎮 <b>KONAMI CODE ACTIVATED</b> — ████████████ 100%</summary>
+
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█  ACCESS GRANTED: DEVELOPER MODE ENABLED                       █
+█                                                                █
+█  > sudo make me a sandwich                                    █
+█  okay.                                                         █
+█                                                                █
+█  "The quieter you become, the more you are able to hear."     █
+█  — Kali Linux Motto                                            █
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+
+</details>
