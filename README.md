@@ -1,5 +1,5 @@
 <!-- OPTION 1: Local banner image (Commit the generated banner.png to your repo root) -->
-<img width="1584" height="396" alt="Suryansh Singh — Cyber Security Banner" src="./C:\Users\Asus\Downloads"/>
+<img width="1584" height="396" alt="cyber-security-awareness-background-free-vector" src="./C:\Users\Asus\Downloads\cyber-security-awareness-background-free-vector"/>
 
 <!-- OPTION 2: Online dynamic banner (uncomment if you don't want to upload banner.png):
 <p align="center">
